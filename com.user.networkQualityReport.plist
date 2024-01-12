@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.user.networkQualityReport</string>
+    <key>ProgramArguments</key>
+    <array>
+        <!-- <string>/Users/bb/Scripts/Network\ Monitoring\ Script/generate_network_quality_report.sh</string> -->
+        <string>/Users/bb/Scripts/Network&#x20;Monitoring&#x20;Script/generate_network_quality_report.sh</string>
+    </array>
+    <key>WatchPaths</key>
+    <array>
+        <string>/Library/Preferences/SystemConfiguration/</string>
+    </array>
+</dict>
+</plist>
